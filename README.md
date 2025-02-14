@@ -24,6 +24,7 @@ Password: at2
 ***Student Module:***
 - Student Login
 - Update Personal Details
+- Check Hostel Detail
 - Display Attendance Details
 - Add Visitor Details
 - Register Complaint
