@@ -39,9 +39,9 @@ To run this project locally, follow these steps:
 2. Clone this repository into these folders:
     - XAMPP: ``` C:\xampp\htdocs\ ```
     - WAMP: ``` C:\wamp\www\ ```
-3. Import the ``` myhostel.sql ``` database file.
-5. Start *Apache* and *MySQL* in XAMPP/WAMP.
-6. Open your browser and visit:
+3. Start *Apache* and *MySQL* in XAMPP/WAMP.
+4. Import the ``` myhostel.sql ``` database file.
+5. Open your browser and visit:
    ```bash
    http://localhost/Hostel-Management-in-PHP/
    ```
